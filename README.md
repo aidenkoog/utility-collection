@@ -12,9 +12,20 @@ This project provides utility functions / classes for Android development.
     - ✨ Ui
     - ✨ Util
 
+#### Utility
+- FileLogUtil
+- HttpErrorUtil
+- LottieUtil
+- NavigationUtil
+- NetworkStatusHelper
+- PermissionUtil
+- PreferenceUtil
+- TimeFormatUtil
+
 #### Release Note
 
 - 2023/03/08: Initialized project / Update utility functions & classes.
+- 2023/03/08: Update utility description.
 
 #### Link
 
