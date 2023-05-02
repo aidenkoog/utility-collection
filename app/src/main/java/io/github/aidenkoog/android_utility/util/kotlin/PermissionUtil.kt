@@ -1,4 +1,4 @@
-package io.github.aidenkoog.android_utility.util
+package io.github.aidenkoog.android_utility.util.kotlin
 
 import android.Manifest
 import android.app.Activity
